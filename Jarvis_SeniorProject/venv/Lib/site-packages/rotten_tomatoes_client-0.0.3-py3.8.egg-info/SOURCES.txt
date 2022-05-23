@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+rotten_tomatoes_client/__init__.py
+rotten_tomatoes_client/client.py
+rotten_tomatoes_client.egg-info/PKG-INFO
+rotten_tomatoes_client.egg-info/SOURCES.txt
+rotten_tomatoes_client.egg-info/dependency_links.txt
+rotten_tomatoes_client.egg-info/requires.txt
+rotten_tomatoes_client.egg-info/top_level.txt
+rotten_tomatoes_client/query/__init__.py
+rotten_tomatoes_client/query/parameters/__init__.py
+rotten_tomatoes_client/query/parameters/browsing.py
+rotten_tomatoes_client/query/parameters/builders/__init__.py
+rotten_tomatoes_client/query/parameters/builders/browsing.py
