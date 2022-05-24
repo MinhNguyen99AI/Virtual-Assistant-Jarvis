@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+beautifulsoup4
+opencage
+IMDbPY
+rotten-tomatoes-scraper
+googlesearch-python
+PyDictionary
+playsound
+flask
+PyAudio
